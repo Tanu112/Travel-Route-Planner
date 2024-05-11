@@ -1,0 +1,6 @@
+geopy
+networkx
+pandas
+matplotlib
+requests
+streamlit
