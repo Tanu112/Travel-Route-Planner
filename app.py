@@ -9,7 +9,7 @@ from geopy.distance import geodesic
 import requests
 
 # Set your OpenAI API key
-openai.api_key = 'open api key'
+openai.api_key = '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'
 
 def generate_distance(locations):
     # Generate a prompt for GPT-3.5
